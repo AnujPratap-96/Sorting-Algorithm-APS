@@ -39,12 +39,22 @@ Similarly, replace `selection_sort` with `bubble_sort`, `insertion_sort`, `quick
 
 ```
 sorting-algorithms/
-├── selection_sort.cpp
-├── bubble_sort.cpp
-├── insertion_sort.cpp
-├── quick_sort.cpp
-├── merge_sort.cpp
-└── README.md
+├── bubble_sort/
+│   ├── bubble_sort.cpp
+│   └── Bubble-Sort.md
+├── insertion_sort/
+│   ├── insertion_sort.cpp
+│   └── Insertion-Sort.md
+├── merge_sort/
+│   ├── merge_sort.cpp
+│   └── Merge-Sort.md
+├── quick_sort/
+│   ├── quick_sort.cpp
+│   └── Quick-Sort.md
+└── selection_sort/
+    ├── selection_sort.cpp
+    └── Selection-Sort.md
+
 ```
 
 ## 🧠 Understanding Each Algorithm
